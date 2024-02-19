@@ -1,0 +1,40 @@
+body {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+img {
+    object-fit: cover;
+}
+
+.bgcolorspan span {
+    background-color: #4b6c0a;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.icona {
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    align-items: center;
+}
+
+a:link {
+    color: #87cc00;
+}
+
+a:visited {
+    color: #87cc00;
+}
+
+a:hover {
+    color: #4a6d0859;
+}
+
+a:active {
+    color: #4b6c0a;
+}
